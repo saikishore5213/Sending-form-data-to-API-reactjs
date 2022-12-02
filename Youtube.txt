@@ -1,0 +1,24 @@
+Title : Youtube clone
+Extentions : RapidApiClient
+dependecies : {
+    "@emotion/react": "^11.10.0",
+    "@emotion/styled": "^11.10.0",
+    "@mui/icons-material": "^5.8.4",
+    "@mui/material": "^5.9.3",
+    "axios": "^0.27.2",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "react-player": "^2.10.1",
+    "react-router-dom": "^6.3.0",
+    "react-scripts": "^5.0.1"
+  },
+short cut for function component : rsf(download es7+ snippets)
+
+MUI components used : {
+Box:"like div",
+Stack:one-dimensional layout like flex,
+Paper:'it is just a div with white color backgroud',
+IconButton:'it is just a normal button with circular design',
+Search:'just search icon'
+Card:'Display card'
+}
